@@ -1,0 +1,46 @@
+! disable scroll bar of urxvt
+URxvt.scrollBar: false
+
+! set Source Code Pro font
+URxvt*font:         xft:Source Code Pro:size=12
+URxvt.letterSpace:  0
+
+! set Dejavu Sans Mono font
+! URxvt*font:         xft:Dejavu Sans Mono:size=12
+
+! special
+URxvt.foreground:   #9b9081
+URxvt.background:   #181b20
+URxvt.cursorColor:  #9b9081
+
+! black
+URxvt.color0:       #353535
+URxvt.color8:       #5f5f5f
+
+! red
+URxvt.color1:       #744b40
+URxvt.color9:       #785850
+
+! green
+URxvt.color2:       #6d6137
+URxvt.color10:      #6f6749
+
+! yellow
+URxvt.color3:       #765636
+URxvt.color11:      #776049
+
+! blue
+URxvt.color4:       #61564b
+URxvt.color12:      #696057
+
+! magenta
+URxvt.color5:       #6b4a49
+URxvt.color13:      #6f5a59
+
+! cyan
+URxvt.color6:       #435861
+URxvt.color14:      #525f66
+
+! white
+URxvt.color7:       #b3b3b3
+URxvt.color15:      #cdcdcd
